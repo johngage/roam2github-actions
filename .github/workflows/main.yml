@@ -1,5 +1,5 @@
 name: "Roam Research backup"
-  #  March 11: change scope of actions
+  #  March 11: change scope of actions to "All"; save;
 on:
   push:
     branches:
