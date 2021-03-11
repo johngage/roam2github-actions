@@ -1,5 +1,5 @@
 name: "Roam Research backup"
-#Adding comment 11Mar: how to print out a value?
+# Adding comment 11Mar: how to print out a value?
 on:
   push:
     branches:
@@ -22,7 +22,7 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: '14'
-  #Where is this job running? On Github? the code for roam2github is installed then run?
+  # Where is this job running? On Github? the code for roam2github is installed then run?
     
       - name: Run Backup
         run: |
