@@ -1,6 +1,6 @@
 name: "Roam Research backup"
   #  March 11: change scope of actions to "All"; save;
-  #  error: no password for Roam; added;
+  #  error: no password for Roam; added; incorrect pw, changed Secret;
 on:
   push:
     branches:
